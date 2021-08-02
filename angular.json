@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular11CRUD"
+    }
+  },
+  "defaultProject": "Angular11CRUD",
+  "cli": {
+    "analytics": "e5b40c73-899b-4142-bada-7a49c81a9e6e"
+  }
 }
