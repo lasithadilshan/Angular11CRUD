@@ -33,4 +33,4 @@ Run `json-server --watch db.json` to run json database server
 
 ## Angular CRUD App Demo Video here
 
-https://user-images.githubusercontent.com/37534587/128057378-974ad0d3-dff6-44d9-ad2f-335cd46d2dff.mp4
+![Video_2021-08-03_222642](https://user-images.githubusercontent.com/37534587/128058558-968d5d1b-fb84-4f4a-8963-ffd86a54347f.gif)
