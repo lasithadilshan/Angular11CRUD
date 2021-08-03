@@ -28,6 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 "# Angular11CRUD" 
 
 
-## How to run json server
+## How to run [json server db](https://www.npmjs.com/package/json-server)
 
 Run `json-server --watch db.json` to run json database server
