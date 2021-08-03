@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Lasitha",
+      "lastName": "Dilshan",
+      "email": "dilshantilakaratne29@gmail.com",
+      "mobile": "+94773130036",
+      "salary": "50,000"
+    },
+    {
+      "id": 4,
+      "firstName": "Sunimal",
+      "lastName": "Perera",
+      "email": "sunil@gmail.com",
+      "mobile": "0776765543",
+      "salary": "56,000"
+    },
+    {
+      "id": 5,
+      "firstName": "Hemal",
+      "lastName": "Perera",
+      "email": "hemal@gmail.com",
+      "mobile": "0774546678",
+      "salary": "67,000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
